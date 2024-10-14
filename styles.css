@@ -1,0 +1,78 @@
+html {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    color: #00ddff;
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+}
+
+table, table th, table td {
+    border: 1px solid #000;
+}
+
+table th {
+    background-color: #6dff6d;
+    text-align: center;
+    font-size: 25px;
+    padding: 30px;
+    width: 100px;
+}
+
+table td {
+    font-weight: bold;
+}
+
+table caption {
+    font-size: 25px;
+}
+
+table .lmsgi {
+    background-color: #FFB6C1;
+}
+
+table .ped {
+    background-color: #5F9EA0;
+}
+
+table .bd {
+    background-color: #FAFAD2;
+}
+
+table .diw {
+    background-color: #FF7F50;
+}
+
+table .si {
+    background-color: #FFFF00;
+}
+
+table .ipoi {
+    background-color: #B22222;
+}
+
+table .tut {
+    background-color: #4682B4;
+}
+
+table .an {
+    background-color: #FFD700;
+}
+
+table .descans {
+    font-size: 20px;
+    padding: 15px;
+}
+
+table .hores {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
